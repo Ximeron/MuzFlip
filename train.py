@@ -8,7 +8,6 @@ import tensorflow as tf
 from tensorflow.keras.models import Sequential, load_model
 from tensorflow.keras.layers import Dense, Dropout
 import shutil
-from tensorflow.keras.callbacks import EarlyStopping
 import matplotlib.pyplot as plt
 
 
